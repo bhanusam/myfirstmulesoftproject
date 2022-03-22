@@ -1,0 +1,22 @@
+[
+    {
+        "COMPANYNAME": "FastGo",
+        "DESTINATIONLOCATIONCODE": "KLG-MY",
+        "ORIGINLOCATIONCODE": "BEN-SG"
+    },
+    {
+        "COMPANYNAME": "FastGo",
+        "DESTINATIONLOCATIONCODE": "BEN-SG",
+        "ORIGINLOCATIONCODE": "KLG-MY"
+    },
+    {
+        "COMPANYNAME": "TravelOnTip",
+        "DESTINATIONLOCATIONCODE": "KLG-MY",
+        "ORIGINLOCATIONCODE": "BEN-SG"
+    },
+    {
+        "COMPANYNAME": "TravelOnTip",
+        "DESTINATIONLOCATIONCODE": "BEN-SG",
+        "ORIGINLOCATIONCODE": "KLG-MY"
+    }
+]
